@@ -7,4 +7,24 @@ Lima Hukum Perpustakaan yang dikemukakan oleh S. R. Ranganathan merupakan prinsi
 
 # **PEMBAHASAN**
 
-Di era digital sekarang ini, Lima Hukum Perpustakaan dari Ranganathan tetaplah relevan karena mampu beradaptasi dengan perubahan bentuk dan cara mengakses informasi yang semakin berkembang. Hukum pertama, *books are for use*, kini tidak lagi terbatas hanya pada buku berbentuk fisik, tetapi juga mencakup e-book, jurnal elektronik, dan berbagai sumber digital yang dapat diakses kapan saja dan di mana saja oleh para pengguna perpustakaan. Hukum kedua dan ketiga, *every reader his/her book* dan *every book its reader*, di era digital ini semakin terlihat melalui adanya sistem pencarian digital, seperti katalog online *(OPAC)*, serta fitur rekomendasi yang membantu pengguna menemukan informasi yang sesuai dengan kebutuhan mereka secara lebih tepat. Hukum keempat, *save the time of the reader*, menjadi semakin penting karena pengguna di era digital saat ini menginginkan akses informasi yang cepat, praktis, dan efisien, yang kini difasilitasi oleh teknologi seperti mesin pencari dan database online. Sementara itu, hukum kelima, *the library is a growing organism*, tercermin dari perkembangan perpustakaan yang terus beradaptasi dengan kemajuan teknologi, seperti hadirnya perpustakaan digital, repositori institusi, dan layanan informasi berbasis daring. Oleh karena itu, kelima hukum tersebut tidak hanya tetap relevan, tetapi juga menjadi landasan penting dalam pengembangan layanan perpustakaan modern yang lebih responsif terhadap kebutuhan pengguna.
+Di era digital sekarang ini, Lima Hukum Perpustakaan dari Ranganathan tetaplah relevan karena mampu beradaptasi dengan perubahan bentuk dan cara mengakses informasi yang semakin berkembang. 
+
+1. *Books are for use* (Setiap buku untuk digunakan)
+
+Hukum ini berarti bahwa semua sumber informasi harus mudah diakses dan dimanfaatkan. Di era digital sekarang ini, makna berkembang tidak hanya pada buku fisik, tetapi juga mencakup e-book, jurnal elektronik, dan database online. Pengguna sekarang bisa mengakses informasi kapan saja dan di mana saja tanpa harus datang langsung ke perpustakaan. Ini menunjukkan bahwa tujuan utama tetap sama, yaitu memastikan informasi benar-benar digunakan.
+
+2. *Every reader his/her book* (Setiap pembaca mendapatkan bukunya)
+
+Hukum ini menekankan bahwa setiap pengguna memiliki kebutuhan informasi yang berbeda. Di era digital, hal ini didukung oleh sistem pencarian dan fitur rekomendasi yang dapat membantu pengguna menemukan informasi sesuai minat atau kebutuhannya. Jadi, perpustakaan tidak hanya menyediakan koleksi, tetapi juga membantu pengguna mendapatkan informasi yang tepat.
+
+3. *Every book its reader* (Setiap buku ada pembacanya)
+
+Hukum ini berarti setiap informasi pasti memiliki pengguna yang membutuhkannya. Dalam konteks digital, hal ini terlihat dari penggunaan katalog online, metadata, dan sistem pencarian yang membuat setiap sumber informasi dapat ditemukan dengan lebih mudah. Perpustakaan berperan sebagai penghubung agar informasi tidak “tersembunyi” tetapi dapat sampai ke pengguna yang tepat.
+
+4. *Save the time of the reader* (Menghemat waktu pembaca)
+   
+Hukum ini menekankan pentingnya efisiensi dalam mendapatkan informasi. Di era digital, pengguna menginginkan akses yang cepat dan praktis. Oleh karena itu, perpustakaan menyediakan teknologi seperti mesin pencari, database online, dan sistem pencarian cepat agar pengguna tidak membuang waktu dalam menemukan informasi yang dibutuhkan.
+
+5. *The library is a growing organism* (Perpustakaan adalah organisme yang berkembang)
+   
+Hukum ini menunjukkan bahwa perpustakaan harus terus berkembang mengikuti perubahan zaman. Di era digital, hal ini terlihat dari perubahan perpustakaan menjadi berbasis teknologi, seperti perpustakaan digital, repositori institusi, dan layanan online. Perpustakaan harus terus beradaptasi agar tetap relevan dan tidak tertinggal.
