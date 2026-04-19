@@ -28,3 +28,7 @@ Hukum ini menekankan pentingnya efisiensi dalam mendapatkan informasi. Di era di
 5. *The library is a growing organism* (Perpustakaan adalah organisme yang berkembang)
    
 Hukum ini menunjukkan bahwa perpustakaan harus terus berkembang mengikuti perubahan zaman. Di era digital, hal ini terlihat dari perubahan perpustakaan menjadi berbasis teknologi, seperti perpustakaan digital, repositori institusi, dan layanan online. Perpustakaan harus terus beradaptasi agar tetap relevan dan tidak tertinggal.
+
+# **KESIMPULAN**
+
+
