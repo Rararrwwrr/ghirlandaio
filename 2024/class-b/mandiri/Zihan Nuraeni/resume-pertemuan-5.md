@@ -19,4 +19,5 @@ Kemajuan teknologi terutama dalam bidang pengelolaan informasi bukanlah sebuah a
 ## Daftar Pustaka
 
 Markus Christen, Gordijn, B., & Loi, M. (Eds.). (2020). The ethics of cybersecurity. Cham: Springer.
+
 Makalah Kelompok 4.  Evolusi 5 Hukum Perpustakaan, Cyberethics, dan Keamanan Cyber dalam Pengelolaan Perpustakaan serta Arsip Digital.
